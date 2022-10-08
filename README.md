@@ -86,4 +86,4 @@ git push origin branch-name
 
 ### Thanks for visiting!
 #### Regards, Navneet
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navneetsinghnitjsr/)](https://www.linkedin.com/in/navneetsinghnitjsr/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navneetnavi/)](https://www.linkedin.com/in/navneetnavi/)
